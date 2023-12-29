@@ -1,1 +1,3 @@
 # Car-Rental-System
+Car Rental System: Discover the effortless rental experience facilitated by an interactive console, simplifying the process of selecting and renting vehicles. 🚗 The return process is streamlined for previously rented cars, ensuring their seamless return and updating availability promptly. 👥 Customer Database Management: Efficiently add new customers to the system while maintaining comprehensive and organized records of their details. 🛠️ Fleet Oversight: Effectively manage various aspects of vehicles, including makes, models, maintenance, and pricing details. 📊 Rental History Tracking: Keep an accurate record of all rentals, encompassing customer information and rental durations for enhanced monitoring and analysis.
+
